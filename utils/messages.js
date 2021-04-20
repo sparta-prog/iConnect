@@ -1,3 +1,4 @@
+// moment is used for current time
 const moment = require('moment');
 
 function formatMessage(username, text) {

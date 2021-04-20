@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root {
-	--dark-color-a: #667aff;
-	--dark-color-b: #7386ff;
-	--light-color: #e6e9ff;
+	--dark-color-a: #171818;
+	--dark-color-b: #727479;
+	--light-color: #f0eaea;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
 }
@@ -89,6 +89,7 @@ a {
 	padding: 30px;
 	max-height: 500px;
 	overflow-y: scroll;
+	background-image: url("/public/proj-back.png");
 }
 
 .chat-messages .message {
